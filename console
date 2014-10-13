@@ -1,0 +1,392 @@
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  25 August 2013 13:36 from Anne Frankplein
+	Check out: 25 August 2013 13:43 to Centraal Busstation West
+	Amount: [In: -4.0, Out: 1.12]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  23 August 2013 18:52 from Johan v.Hasseltweg
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  23 August 2013 08:12 from Anne Frankplein
+	Check out: 23 August 2013 08:21 to Centraal Busstation West
+	Amount: [In: -4.0, Out: 1.12]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  05 May 2013 14:50 from Centraal Busstation Noord
+	Check out: 05 May 2013 15:07 to Marco Pololaan
+	Amount: [In: -4.0, Out: 1.47]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  05 May 2013 14:31 from Prins Bernhardplein
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  04 May 2013 17:55 from Centraal Busstation Noord
+	Check out: 04 May 2013 18:13 to Prins Bernhardplein
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  29 April 2013 08:00 from Centraal Busstation Zuid
+	Check out: 29 April 2013 08:00 to Centraal Busstation Zuid
+	Amount: [In: -4.0, Out: 0.0]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  29 April 2013 07:44 from Heidelberglaan
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  28 April 2013 21:51 from Utrecht, Neude
+	Check out: 28 April 2013 22:03 to Heidelberglaan
+	Amount: [In: -4.0, Out: 1.49]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  08 April 2013 07:54 from Utrecht, Padualaan
+	Check out: 08 April 2013 08:08 to Centraal Busstation Zuid
+	Amount: [In: -4.0, Out: 1.51]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  07 April 2013 00:59 from Hilversum
+	Check out: ? to ?
+	Amount: [In: -20.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  06 April 2013 17:33 from Utrecht Centraal
+	Check out: 06 April 2013 17:58 to Hilversum Sportpark
+	Amount: [In: -20.0, Out: 3.7]
+	Product: Reizen op Saldo NS Vol tarief
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  12 March 2013 07:59 from Centraal Busstation Noord
+	Check out: 12 March 2013 07:59 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 0.0]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  12 March 2013 07:42 from J.M.de Muinck Keizerlaan
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  09 March 2013 23:48 from Centraal Busstation Noord
+	Check out: 10 March 2013 00:01 to Prins Bernhardplein
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  07 March 2013 12:50 from Prins Bernhardplein
+	Check out: 07 March 2013 13:07 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  06 March 2013 22:36 from Heidelberglaan
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  06 March 2013 19:11 from Centraal Busstation Noord
+	Check out: 06 March 2013 19:28 to Heidelberglaan
+	Amount: [In: -4.0, Out: 1.59]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  05 February 2013 07:48 from Heidelberglaan
+	Check out: 05 February 2013 08:06 to Centraal Busstation Zuid
+	Amount: [In: -4.0, Out: 1.56]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  04 February 2013 20:02 from Utrecht, Padualaan
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  04 February 2013 19:47 from Centraal Busstation Zuid
+	Check out: 04 February 2013 19:47 to Centraal Busstation Zuid
+	Amount: [In: -4.0, Out: 0.86]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  25 December 2012 15:05 from Heidelberglaan
+	Check out: 25 December 2012 15:21 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 1.46]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  24 December 2012 17:24 from Centraal Busstation Noord
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  24 December 2012 16:31 from Johan v.Hasseltweg
+	Check out: 24 December 2012 16:40 to Centraal Station
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  23 December 2012 21:47 from Centraal Busstation Noord
+	Check out: 23 December 2012 22:03 to Heidelberglaan
+	Amount: [In: -4.0, Out: 1.47]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  23 December 2012 21:11 from Hilversum
+	Check out: ? to ?
+	Amount: [In: -20.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  22 December 2012 21:56 from Bussum, Station
+	Check out: 22 December 2012 22:21 to Huizen, Zuiderzee
+	Amount: [In: -4.0, Out: 1.83]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  15 December 2012 02:22 from Centraal Station
+	Check out: 15 December 2012 02:32 to Cambridgelaan
+	Amount: [In: -4.0, Out: 1.46]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  15 December 2012 01:13 from Amsterdam Centraal
+	Check out: ? to ?
+	Amount: [In: -20.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  14 December 2012 15:47 from Johan v.Hasseltweg
+	Check out: 14 December 2012 15:56 to Centraal Station
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  03 December 2012 08:17 from Centraal Station
+	Check out: 03 December 2012 08:26 to Johan v.Hasseltweg
+	Amount: [In: -4.0, Out: 1.37]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  03 December 2012 07:38 from Centraal Busstation Zuid
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  01 December 2012 18:53 from Centraal Busstation Noord
+	Check out: 01 December 2012 19:20 to Heidelberglaan
+	Amount: [In: -4.0, Out: 1.47]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  26 October 2012 18:11 from Centraal Busstation Noord
+	Check out: 26 October 2012 18:11 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 0.83]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  26 October 2012 18:10 from Centraal Busstation Noord
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  26 October 2012 17:12 from Johan v.Hasseltweg
+	Check out: 26 October 2012 17:20 to Centraal Station
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  16 October 2012 08:43 from Johan v.Hasseltweg
+	Check out: 16 October 2012 08:43 to Johan v.Hasseltweg
+	Amount: [In: -4.0, Out: 1.37]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  16 October 2012 08:36 from Centraal Station
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  16 October 2012 07:33 from Prins Bernhardplein
+	Check out: 16 October 2012 07:49 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 1.29]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  05 October 2012 22:47 from Smaragdplein
+	Check out: 05 October 2012 22:54 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 1.12]
+	Product: 
+)
+Trip waar het om gaat: Transaction(
+	Check in:  05 October 2012 18:48 from Centraal Busstation Noord
+	Check out: ? to ?
+	Amount: [In: -4.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  05 October 2012 17:51 from Johan v.Hasseltweg
+	Check out: 05 October 2012 18:00 to Centraal Station
+	Amount: [In: -4.0, Out: 1.38]
+	Product: 
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  13 August 2012 19:55 from Schiphol
+	Check out: 13 August 2012 20:33 to Utrecht Centraal
+	Amount: [In: -10.0, Out: 4.7]
+	Product: Studenten weekabonnement Korting
+)
+Trip waar het om gaat: Transaction(
+	Check in:  09 August 2012 12:23 from Utrecht Centraal
+	Check out: ? to ?
+	Amount: [In: -10.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  09 August 2012 12:04 from Heidelberglaan
+	Check out: 09 August 2012 12:22 to Centraal Busstation Noord
+	Amount: [In: -4.0, Out: 0.97]
+	Product: Studenten Weekabon Korting
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  17 July 2012 23:50 from Centraal Busstation Zuid
+	Check out: 18 July 2012 00:05 to Heidelberglaan
+	Amount: [In: -4.0, Out: 0.97]
+	Product: Studenten Weekabon Korting
+)
+Trip waar het om gaat: Transaction(
+	Check in:  17 July 2012 23:38 from Utrecht Centraal
+	Check out: ? to ?
+	Amount: [In: -10.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  17 July 2012 11:39 from Utrecht Centraal
+	Check out: 17 July 2012 22:23 to Hillegom
+	Amount: [In: -10.0, Out: 6.7]
+	Product: Studenten weekabonnement Korting
+)
+---------------------------------------------
+
+
+---------------------------------------------
+Vergeten uit te checken!
+Previous trip: Transaction(
+	Check in:  12 May 2012 17:17 from Station Sportpark
+	Check out: 12 May 2012 17:36 to Huizen, Busstation
+	Amount: [In: -4.0, Out: 1.76]
+	Product: Studenten Weekabon Korting
+)
+Trip waar het om gaat: Transaction(
+	Check in:  12 May 2012 16:55 from Utrecht Centraal
+	Check out: ? to ?
+	Amount: [In: -10.0, Out: ?]
+	Product: ?
+)
+Next trip: Transaction(
+	Check in:  12 May 2012 16:20 from Heidelberglaan
+	Check out: 12 May 2012 16:34 to Centraal Busstation Zuid
+	Amount: [In: -4.0, Out: 0.96]
+	Product: Studenten Weekabon Korting
+)
+---------------------------------------------
+
+Finished
